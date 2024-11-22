@@ -1,0 +1,47 @@
+body{
+    background-image:url(Kotatka.jpg) ;
+    background-size: cover;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nadpis1{
+    color: chocolate;
+    font-size: 400%;
+    font-family: monospace;
+    text-align: center;
+}
+.nadpis2{
+    color: crimson;
+    font-size: 300%;
+    font-family: fantasy;
+    text-align: left;
+}
+.nadpis3{
+    color: darkgreen;
+    font-size: 200%;
+    font-family: initial;
+    text-align: center;
+}
+.rimske {
+    color:peru;
+    list-style-type: upper-roman;
+    font-size: 100%;
+}
+.seznam1 {
+    color: crimson;
+}
+.seznam2 {
+    color: red;
+}
+.seznam3 {
+    color: darkorchid;
+}
+.tvar {
+    list-style-type: square;
+}
+.tvar li:nth-child(1) {
+    list-style-type: circle;
+}
+.tvar li:nth-child(2) {
+    list-style-type: disc;
+}
