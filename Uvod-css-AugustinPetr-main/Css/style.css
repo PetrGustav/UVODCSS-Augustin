@@ -45,3 +45,6 @@ body{
 .tvar li:nth-child(2) {
     list-style-type: disc;
 }
+.tvar {
+    color: brown;
+}
